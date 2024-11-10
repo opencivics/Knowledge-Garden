@@ -1,0 +1,150 @@
+/* Site Name */
+.site-body-left-column-site-name {
+    display: none;
+}
+
+.site-body-left-column-site-logo {
+    margin-bottom: 20px;
+}
+
+.site-body-left-column-site-logo img {
+    max-width: 200px;
+    float: left;
+    margin-left: 5px;
+}
+
+/* Embed title */
+.markdown-embed-title {
+    font-weight: bold;
+}
+
+/* Blockquote Color */
+.markdown-rendered blockquote {
+    border-left: 2px solid #3b20E9 !important;
+}
+.markdown-embed {
+border-inline-start-color: #3b20E9 !important;
+}
+
+/* Nav Highlight */
+.nav-view-outer .tree-item-self.mod-active {
+    color: #3b20E9;
+    border-left: 1px solid #3b20E9;
+}
+
+.theme-light {
+    --color-accent: #3b20E;
+}
+
+/* Text Styling */
+h4, .markdown-rendered h4 {
+    Text-transform:uppercase;
+    font-family: 'Sharp Grotesk Medium 20';
+    Font-weight: 300;
+}
+h2, .markdown-rendered h2 {
+    font-weight: 500;
+}
+Body {
+--font-text-size: 14px;
+}
+
+/* Site Footer Hide */
+site-footer {
+    display: none;
+}
+/* Background container */
+.sliding-windows .render-container {
+    background-color: #ededed;
+}
+
+/* Text Highlight */
+::selection {
+    background-color: #4DFA9F !important;
+    color: #3b20E9;
+}
+
+/* Link Colours */
+.metadata-container .internal-link,
+.markdown-rendered .internal-link,
+.external-link {
+    color: #3b20E9 !important;
+}
+
+.metadata-container .internal-link.is-unresolved:hover,
+.markdown-rendered .internal-link.is-unresolved:hover,
+.metadata-container .internal-link:hover,
+.markdown-rendered .internal-link:hover,
+.external-link:hover {
+    color: #3b20E9;
+    opacity: 1;
+    text-decoration-color: #3b20E9 !important;
+}
+
+/* Fonts */
+/* Importing custom Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+/* Defining custom fonts for different elements */
+body {
+    --wws-font-roboto: 'Roboto Mono';
+    --wws-font-text: 'Roboto Mono';
+    --wws-header-font: 'Sharp Grotesk Light 20';
+    --wws-font-monospace: 'Roboto Mono';
+
+    /* Header fonts */
+    --h1-font: var(--wws-header-font);
+    --h2-font: 'Sharp Grotesk Medium 20';
+    --h3-font: var(--wws-header-font);
+    --h4-font: 'Sharp Grotesk Medium 20';
+    --h5-font: var(--wws-header-font);
+    --h6-font: var(--wws-header-font);
+
+    /* Text and monospace fonts */
+    --font-text-theme: var(--wws-font-text);
+    --font-monospace-theme: var(--wws-font-monospace);
+    --font-interface-theme: var(--wws-font-text);
+}
+
+.page-header {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+/* Custom Fonts */
+@font-face {
+    font-family: 'Sharp Grotesk Medium 20';
+    src: url('https://static1.squarespace.com/static/664a2d449ebaa502ebd97063/t/664a2df96ec1a728d291193f/1716137466678/SharpGrotesk-Medium20.woff2') format('woff2'),
+         url('https://static1.squarespace.com/static/664a2d449ebaa502ebd97063/t/664a2dfabfee591513b4c1d7/1716137467698/SharpGrotesk-Medium20.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Grotesk Medium Italic 20';
+    src: url('https://static1.squarespace.com/static/664a2d449ebaa502ebd97063/t/664a2df964ea844afc4e01fa/1716137466711/SharpGrotesk-MediumItalic20.woff2') format('woff2'),
+         url('https://static1.squarespace.com/static/664a2d449ebaa502ebd97063/t/664a2df991addb09944723c7/1716137467591/SharpGrotesk-MediumItalic20.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Grotesk Light 20';
+    src: url('https://static1.squarespace.com/static/664a2d449ebaa502ebd97063/t/664a2faca4dd70099d72eb99/1716137900647/SharpGrotesk-Light20.woff2') format('woff2'),
+         url('https://static1.squarespace.com/static/664a2d449ebaa502ebd97063/t/664a2fc0c5d85504c12f18c6/1716137920832/SharpGrotesk-Light20.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Grotesk Light Italic 20';
+    src: url('https://static1.squarespace.com/static/664a2d449ebaa502ebd97063/t/664a2df9460fc51833ded0bf/1716137467121/SharpGrotesk-LightItalic20.woff2') format('woff2'),
+         url('https://static1.squarespace.com/static/664a2d449ebaa502ebd97063/t/664a2df952d7574d7b8e8ca2/1716137467391/SharpGrotesk-LightItalic20.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
