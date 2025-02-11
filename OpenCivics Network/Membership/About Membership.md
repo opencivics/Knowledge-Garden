@@ -22,7 +22,7 @@ Membership in the network is offered as various roles across the organizing stru
 
 - [[Membership Roles#^e62138|Become a Contributor]] : contribute to a consortium initiative
 - [[Membership Roles#Consortium Membership|Become a Citizen]] : contribute to network governance
-- [[Membership Roles#Consortium Membership|Become a Representative]] : speak on behalf of consortium members
+- [[Membership Roles#Consortium Membership|Become a Delegate]] : speak on behalf of consortium members
 - [[Membership Roles#Consortium Membership|Become a Steward]] : responsible for maintaining network functions
 - [[Membership Roles#Consortium Membership|Become an Advisor]] : support network stewardship and governance
 
@@ -31,5 +31,7 @@ Membership in the network is offered as various roles across the organizing stru
 *Members of the Consortium are invited to become Labs members*
 
 - [[Membership Roles#Labs Membership|Become a Participant]] : contribute to a labs project
-- [[Membership Roles#Labs Membership|Become a Partner]] : co-owner + start and contribute to labs projects
+- [[Membership Roles#Labs Membership|Become a Practitioner]] : ...
+- [[Membership Roles#Labs Membership|Become a Partner]] : ...
 - [[Membership Roles#Labs Membership|Become a Manager]] : govern and operate the labs
+- [[Membership Roles#Labs Membership|Become an Operator]] : support day-to-day operations

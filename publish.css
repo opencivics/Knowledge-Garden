@@ -3,6 +3,10 @@
     display: none;
 }
 
+.site-header-text {
+    display: none !important;
+}
+
 .site-body-left-column-site-logo {
     margin-bottom: 20px;
 }
@@ -16,6 +20,7 @@
 /* Embed title */
 .markdown-embed-title {
     font-weight: bold;
+
 }
 
 /* Blockquote Color */

@@ -1,19 +1,23 @@
 ---
 id: 20241105155630
 tags: 
-publish: 
+publish: "true"
 aliases:
   - OpenCivics Framework
 ---
-The Open Civics Framework is a guide for designing and implementing open civic systems that promote vitality, participation, and resilience in addressing societal challenges. 
+The Open Civic Innovation Framework is a guide for designing and implementing self-organized open civic systems that promote vitality, participation, and resilience in addressing societal challenges. 
 
-It aims to empower communities and individuals to actively participate in governance and civic engagement, fostering a vital and participatory civilization that prioritizes collective well-being and shared responsibility.
+It aims to empower communities and individuals to actively participate in local stewardship and civic engagement through participatory design methodologies that prioritize collective well-being and shared responsibility.
 
-- [[Why A Framework]]
-- [[Framework Design]]
-- [[Philosophy]]
-- [[Capacities]]
-- [[Practices]]
+# Explore
+
+- [[Full Framework]]
+- [[Executive Summary]]
+- [[Background and Rationale]]
+- [[Framework Fundamentals]]
+- [[Design Philosophy]]
+- [[Design Practice]]
+- [[Framework Architecture]]
 - [[Framework In Use]]
-- [[7 Open Civic Knowledge]]
+- [[Evaluation and Improvement]]
 

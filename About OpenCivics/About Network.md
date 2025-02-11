@@ -1,16 +1,37 @@
 ---
 id: 20241105155611
 tags: 
-publish: 
+publish: "true"
 aliases:
   - OpenCivics Network
-  - About Network
 ---
-The OpenCivics Network connects civic innovators, organizers, and patrons to support the practice of open civic innovation. 
+The OpenCivics Network isa  community of practice and solidarity network working to renew civic culture and adapt civic systems to create the conditions for a vital, resilient, and participatory civilization to emerge.
 
-It provides scaffolding for alignment, coordination, resourcing, collaboration, convening, and learning among civic stewards dedicated to fostering a vital, resilient, and participatory civilization.
+Together, the [[1 OpenCivics Foundation|OpenCivics Foundation]], [[About Consortium|OpenCivics Consortium]], and [[About Labs|OpenCivics Labs]], serve the [[OpenCivics Network/Network/About Network|OpenCivics Network]].
 
-[[OpenCivics Network/Network/About Network]]
-[[About Consortium]]
-[[About Foundation]]
-[[About Labs]]
+# Explore
+
+**About Network**
+- [[OpenCivics Network/Network/About Network|About Network]]
+- [[About Consortium]]
+- [[About Labs]]
+- [[About Foundation]]
+
+**About Membership**
+- [[OpenCivics Network/Membership/About Membership|About Membership]]
+- [[Application Guide]]
+- [[Ethical Standards]]
+- [[Membership Criteria]]
+- [[Membership Roles]]
+
+**Network Details**
+- [[Network Pledge]]
+- [[Constitution]]
+- [[Vision and Mission]]
+
+**Network Strategy**
+- [[Progressive Protocolization]]
+
+**Network Updates**
+- [[2023 Retrospective]]
+- [[2024 Roadmap]]

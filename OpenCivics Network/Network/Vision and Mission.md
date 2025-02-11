@@ -32,6 +32,31 @@ The state and the _capacity_ for adaptive self-organization sufficient to provid
 The state of respect for the sovereign _agency_ of all beings and the capacity of individual agents to participate and influence their circumstances.
 
 
+
+### Vitality
+
+**Vitality** is Life’s capacity to create more Life, the embodied state of thriving that emerges from the interconnected levels of well-being and quality of life for individuals, communities, and ecologies.
+
+Open civic systems foster a thriving state of well-being, derived from interconnected social, cultural, and ecological health. Rooted in indigenous principles like Sumak kawsay ("I am well because you are well"), vitality requires balancing quality of life for individuals and communities with ecological stewardship.
+
+**Indicators**: Cultural diversity, community vitality, ecological resilience, and holistic well-being.
+
+### Resilience
+
+**Resilience** is the state of and the capacity for adaptive self-organization sufficient to provide core life-support function across changing world circumstances.
+
+Designed to withstand and adapt to evolving challenges, resilient open civic systems exhibit decentralized structures that are modular and redundant. They can evolve without compromising the essential needs of participants.
+
+**Indicators**: Diversity, redundancy, adaptive capacity, and interconnectivity.
+
+### Choice
+
+**Choice** is the state of fundamental respect for the sovereign agency of all beings and the capacity of individual agents to express their agency and influence their circumstances.
+
+Upholding the agency and sovereignty of participants, choice empowers individuals to meaningfully engage, contribute, and adapt their involvement. Open civic systems respect autonomy, enabling participants to express their will and shape outcomes.
+
+**Indicators**: Opt-in/out mechanisms, flexible participation, participatory decision-making, and conflict resolution.
+
 # Network Mission
 
 **We connect civic innovators, organizers and patrons committed to the practice of open civic innovation.**

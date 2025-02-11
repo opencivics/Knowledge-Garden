@@ -1,0 +1,20 @@
+---
+id: 20241120135040
+tags: 
+publish:
+---
+## Example Scenarios
+
+### Pollinator Gardens
+
+Grounding the framework in an applied use case, let’s explore the story of Tracy, a community member on the Front Range of the Rocky Mountains in Colorado. **Tracy has noticed a decline of pollinators in her area and is concerned about the cascading loss of biodiversity that arises out of poor land use policy and management.**
+
+She writes up a mission, vision, and purpose statement using a Cultural DNA and Initial Membrane Formation template she discovered on the _open protocol library_ with a clear plan to support a distributed movement of citizens planting pollinator gardens. She calls the project, “Pollinator People,” and sends the proposal to a few core friends who she knows share her interest. They meet at a local cafe to define the approach they might take to the collaborative process, governance methods, and mapping out the various types of community organizations, non-profits, and government agencies that might be interested in the project. They combine a few different elements from the _open protocol library_ to compose a stack that utilizes Theory U for collaborative project design, consensus decision making for big group decisions, clearly defined sociocratic working groups with representative linking roles, and a biodiversity tracking template.
+
+Tracy lists the project on Open Collective to raise some community donations and submits a grant application to her local government’s climate resilience program. Along with her early co-founders, Tracy raises a few thousand dollars for supplies and a small stipend for the core team. Tracy makes a post on social media inviting her community to a launch event for the project on a Saturday afternoon at the local library. There, community members divide up into teams for the various work streams outlined in her proposal. Teams develop to research the best pollinator plants for their bioregion, generate a coordination plan for deciding which backyards of community members they want to plant in first, and an impact evaluation team to document the process and its outcomes on local pollinators. The working groups reconvene as a larger group to participate in a consensus-building dialogue designed to confirm alignment around their approach. Each team makes a proposal for the amount of the total available grant funding they need for their portion of the project and they all agree to document their activities and expenses using one of the decentralized project management interfaces they discovered in the _open protocol library_. The impact evaluation group creates a Google Drive workspace to save all the documents and shares it to the WhatsApp group Tracy has created for the project.
+
+After a few working group meetings, the project is ready to plant their pollinator gardens. Each weekend for two months, the group meets in a different community member’s backyard to plant pollinator gardens together. Tracy invites a local musician to play music and the work parties become a community highlight of the summer, a family-friendly and service-oriented activity that brings the whole community together. After the planting, the impact evaluation group provides a citizen science framework to all the homes where pollinator gardens are planted. At the end of the season, the impact evaluation group colates all the citizen science data and generates a report of the project’s successes and learnings. With the entire process designed using open protocols and documented through open, collaborative documents, Tracy and her community are able to refine the process the next season, share their learnings and recipe for their civic stack to the open protocol library, and apply for retroactive and future grant funding.
+
+## Case Studies
+
+[...]
